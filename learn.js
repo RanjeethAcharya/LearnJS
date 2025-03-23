@@ -23,6 +23,25 @@
 // console.log(x);
 // console.log(y);
 
+// Arrays
+
+
+
+// Function
+
+// function ranjeeth(ranju){
+//     console.log('nickname is : ', ranju);
+// }
+
+// ranjeeth("ranju");
+// ranjeeth("katty");
+
+
+
+
+
+
+
 
 
 
